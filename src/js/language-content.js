@@ -52,7 +52,7 @@ export default {
     },
     //German
     de: {
-        touch: "Verschieben der Karte mit zwei Fingern",
+        touch: "Navigieren auf der Karte mit zwei Fingern",
         scroll: "Verwende Strg+Scrollen zum Zoomen der Karte",
         scrollMac: "Verwende \u2318+Scrollen zum Zoomen der Karte"
     },
